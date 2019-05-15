@@ -1,1 +1,1 @@
-Programming assignments completed for the Jon Hopkins Data Science courses on Coursera
+Programming assignments completed for the Johns Hopkins data science courses on Coursera
