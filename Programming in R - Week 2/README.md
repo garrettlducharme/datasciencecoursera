@@ -1,7 +1,3 @@
-# Programming assignment 1
-
-This is programming assignment 1 for the Coursera course on Programming in R offered through Johns Hopkins University.
-
 ## Introduction
 For this first programming assignment you will write three functions that are meant to interact with dataset that accompanies this assignment. The dataset is contained in a zip file specdata.zip that you can download from the Coursera web site.
 
